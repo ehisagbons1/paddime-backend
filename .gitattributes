@@ -1,0 +1,4 @@
+# Create the file
+echo "* text=auto" > .gitattributes
+echo "*.js text eol=lf" >> .gitattributes
+echo "*.json text eol=lf" >> .gitattributes
